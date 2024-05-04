@@ -10,7 +10,7 @@ public class DeclarationApp {
         double f = 6.0;
         boolean g = true;
         char h = 'a';
-        String i = "hello word";
+        String i = "hello word !";
         System.out.println(f);
 
         String randomString = "Voici le résultat d’un calcul :\n 1+5=6";
